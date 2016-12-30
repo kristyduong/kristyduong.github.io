@@ -1,3 +1,10 @@
+document.getElementById("menu").innerHTML = "<ul class='w3-navbar w3-large w3-padding-8 w3-white w3-container'>" +
+	"<li class='w3-right'><a class='w3-text-carbon w3-hover-white' href='dancer.html'>Writer</a></li>" +
+	"<li class='w3-right'><a class='w3-text-carbon w3-hover-white' href='hacker.html'>Dancer</a></li>" +
+	"<li class='w3-right'><a class='w3-text-carbon w3-hover-white' href='connector.html'>Programmer</a></li>" +
+	"<li class='w3-right'><a class='w3-text-carbon w3-hover-white' href='index.html'>Home</a></li>" +
+	"</ul>";
+
 var socialIcons = document.getElementById("social-icons");
 if (socialIcons) {
 	socialIcons.innerHTML = 
