@@ -1,5 +1,4 @@
 document.getElementById("menu").innerHTML = "<ul class='w3-navbar w3-large w3-padding-8 w3-white w3-container'>" +
-	"<a class='w3-hover-white' href='index.html'><img src='images/ninja.svg' alt='Logo' id='logo' class='w3-small'></a>" + 
 	"<li class='w3-right'><a href='writer.html'>Writer</a></li>" +
 	"<li class='w3-right'><a href='dancer.html'>Dancer</a></li>" +
 	"<li class='w3-right'><a href='programmer.html'>Programmer</a></li>" +
