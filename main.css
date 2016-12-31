@@ -1,1 +1,7 @@
+.no-underline {
+	text-decoration: none;
+}
 
+.fitted-image {
+	width: 100%;
+}
