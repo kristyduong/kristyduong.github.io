@@ -17,3 +17,19 @@
 .image1 {
 	width: 35%;
 }
+
+p {
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.caption {
+	width: 50%;
+	margin: auto;
+}
+
+.screenshot {
+	margin: 5px;
+	padding: 2px;
+	width: 25%;
+}
