@@ -18,7 +18,7 @@
 	width: 35%;
 }
 
-p {
+p, h3, h5 {
 	padding-left: 7%;
 	padding-right: 7%;
 }
