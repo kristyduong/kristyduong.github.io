@@ -1,3 +1,9 @@
+footer {
+	height: 50px;
+	margin-top: 20px;
+	border-top: 1px solid gray;
+}
+
 .no-underline {
 	text-decoration: none;
 }
